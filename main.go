@@ -137,7 +137,7 @@ func News(sourceID int) {
 	DisplayTitles(articles)
 	article := articles[GetChoice("Select an article : ")]
 
-	// Need to use colly for both options below
+	// Article options
 	PrintOptions()
 	switch GetChoice("Choice : ") {
 	case 1:
