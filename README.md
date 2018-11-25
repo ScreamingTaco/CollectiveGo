@@ -7,5 +7,11 @@ CollectiveGo gives you 14 different news sites to read articles from. You can pi
 **How?**
 Through RSS feeds, which contain the link to each article. That link is then used by colly to scrape text and display it through CLI.
 
+**Download**
+More on this soon!
+
+**Build**
+More on this soon!
+
 **Contribute?**
 More on this soon!
