@@ -16,7 +16,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-import "github.com/ScreamingTaco/CollectiveGo/collective"
+import "github.com/TheRedSpy15/CollectiveGo/collective"
 
 func main() {
 	collective.PrintSources()
